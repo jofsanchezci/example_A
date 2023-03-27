@@ -16,3 +16,5 @@ while repetir=='S' or repetir=='s':
   d[con]=l
   con+=1
   repetir=input('¿Desea continuar S/N?')
+
+print(d)
